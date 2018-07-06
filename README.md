@@ -1,7 +1,7 @@
 # Spatial Database Final Project
 
 # Introduction
-The Coastal Marine Zones dataset used in this notebook can be found here.
+The Coastal Marine Zones dataset used in this notebook can be found here -> https://www.weather.gov/gis/MarineZones.
 
 ## What is a "Marine Zone Forecast"?
 
