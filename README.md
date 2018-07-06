@@ -1,5 +1,4 @@
-# SD-Project
-Spatial Database Final Project
+# Spatial Database Final Project
 
 # Introduction
 The Coastal Marine Zones dataset used in this notebook can be found here.
@@ -32,7 +31,7 @@ GeoPandas is an open source project to make working with geospatial data in pyth
 
 The goal of GeoPandas is to make working with geospatial data in python easier. It combines the capabilities of pandas and shapely, providing geospatial operations in pandas and a high-level interface to multiple geometries to shapely. GeoPandas enables you to easily do operations in python that would otherwise require a spatial database such as PostGIS.
 
-# OGC SimpleFeatures
+## OGC SimpleFeatures
 
 A standard that specifies a common storage and access model of mostly two-dimensional geographical data (point, line, polygon, multi-point, multi-line, etc.) The formats were originally defined by the Open Geospatial Consortium (OGC) and described in their Simple Feature Access and Coordinate Transformation Service specifications.
 
